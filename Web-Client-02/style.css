@@ -1,0 +1,33 @@
+header {
+    background-color: brown;
+    padding: 30px ;
+    text-align: center;
+    font-size:40px;
+}
+#smHeader{
+    background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav{
+    text-align: center;
+    background-color: darkkhaki;
+    padding: 20px;
+    font-size: 20px;
+}
+aside{
+    width:300px;
+    border: 2px solid black;
+    padding:10px;
+    margin:10px;
+    float:right;
+}
+#articleImg{
+    width: 700px;
+    height:700px;
+}
+footer{
+    width:100%;
+    background-color: cadetblue;
+    padding:10px;
+    text-align: right;
+}
