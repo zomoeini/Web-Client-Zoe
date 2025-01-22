@@ -1,0 +1,39 @@
+/* we can define style for each element in html*/
+ h1{
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blue;
+    text-align: center;
+    font-size: 30px;
+ }
+
+ /* # for identify the id */
+ /*#middleH1{
+
+    background-color: green;
+ }
+ #middleH12{
+
+    background-color: green;
+ }
+ #middleH13{
+
+    background-color: green;
+ }
+*/
+ /* class declares with .*/
+
+ /* if I want to apply CSS style for more than one same elements
+ and you want to do specified or customized we can use CLASS */
+
+ .middleH1{
+    background-color: green;
+ }
+
+ .h1Font{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+ }
+ .jumbo-edit{
+   background-color: brown;
+ }
